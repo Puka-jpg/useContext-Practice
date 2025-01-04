@@ -1,6 +1,6 @@
 import React, { useState, createContext } from "react";
 
-import ComponentB from "./ComponentB";
+import ComponentB from "../ComponentB";
 
 export const UserContext = createContext();
 

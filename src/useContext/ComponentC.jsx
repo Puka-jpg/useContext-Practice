@@ -1,4 +1,4 @@
-import ComponentD from "./Componentd";
+import ComponentD from "./ComponentD";
 import { UserContext } from "./ComponentA";
 import React, { useContext } from "react";
 

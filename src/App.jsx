@@ -1,13 +1,14 @@
 import { useState } from "react";
+//import ComponentA from "./useContext/ComponentA";
 
 import "./App.css";
-
-import ComponentA from "./ComponentA";
+import MyUseRefHookComponent from "./useRef/MyComponent";
 
 function App() {
   return (
     <>
-      <ComponentA />
+      {/* <ComponentA /> */}
+      <MyUseRefHookComponent />
     </>
   );
 }
